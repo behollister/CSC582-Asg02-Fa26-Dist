@@ -209,11 +209,11 @@ python3 munger.py            # answer 1 - take-home
 
 Open the bundle one more time and re-check the four things from Step 3. Then upload
 `<ID>_<Name>_takehome_bundle.txt` to the take-home form — the URL is in §10 of the assignment
-PDF — by the start of class on the day of the session.
+PDF — by the start of class on the day of the in-class session.
 
 That's the whole take-home submission: nothing else to hand in, nothing to push anywhere.
 
-## Step 7 — Session day
+## Step 7 — In-class session day
 
 Bring a laptop with your repository on it, with Python working. You answer questions in an exam
 form, opened at the start, with AI assistants off, and at the end you upload a second bundle.
@@ -224,9 +224,9 @@ form, opened at the start, with AI assistants off, and at the end you upload a s
 - **Part B** (25%) is one design task, sized for two hours, that extends your model. You answer in
   prose plus a Mermaid class diagram typed into an answer box; no sequence diagram is asked for in
   class. One diagram tool is permitted, named on the task sheet you'll be given.
-- **The in-class bundle.** At the end of the session, commit again and re-run `munger.py`, this
+- **The in-class bundle.** At the end of the in-class session, commit again and re-run `munger.py`, this
   time answering **2**. That writes `<ID>_<Name>_inclass_bundle.txt`, which goes to a **separate
-  in-class form** handed out during the session, before time is called.
+  in-class form** handed out during the in-class session, before time is called.
 
 ---
 

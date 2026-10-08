@@ -178,13 +178,13 @@ def ask_submission_kind():
     """
     print("\nWhich submission is this?")
     print("  1. Take-home  - the model you built for the take-home, due at the start of class")
-    print("  2. In-class   - Part B, the extension you designed during the session")
+    print("  2. In-class   - Part B, the extension you designed during the in-class session")
     choice = input("Enter 1 or 2: ").strip()
 
     if choice == "1":
         return ("takehome", "take-home (due at the start of class)")
     if choice == "2":
-        return ("inclass", "in-class Part B (due before the session ends)")
+        return ("inclass", "in-class Part B (due before the in-class session ends)")
     return None
 
 

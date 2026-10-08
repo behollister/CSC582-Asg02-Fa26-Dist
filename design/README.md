@@ -44,9 +44,9 @@ Mermaid script. After running `munger.py`, check the `FILES NOT BUNDLED` section
 `design/` is listed there, fix it before you submit.
 
 The script also has to **parse** — rubric item 6. A diagram with a syntax error renders as nothing,
-so paste it into a renderer (WALKTHROUGH step 4) after every substantial change. Mermaid is
-diffable in git, renders in `.md` previews, and is the notation Part B's class diagram is typed in
-during the session, so two weeks of fluency in it is two weeks of rehearsal.
+so paste it into a renderer (WALKTHROUGH step 4) after every substantial change. Mermaid is diffable
+in git, renders in `.md` previews, and is the notation Part B's class diagram is typed in during the
+in-class session, so two weeks of fluency in it is two weeks of rehearsal.
 
 ## Notation, in one sketch
 
@@ -108,9 +108,9 @@ and `alt ... else ... end` are available when a scenario repeats or branches.
 
 ## Why the rationale is the heavyweight
 
-A class diagram of this domain can be generated in seconds. The rationale cannot, because it has
-to be true of *your* diagram: the eight questions in §7 of the handout all have the form "you made
-a choice here — what does it cost you?" An answer written before the choice was made is a guess;
-an answer written after is evidence that the model is yours. That is also why Part A of the
+A class diagram of this domain can be generated in seconds. The rationale cannot, because it has to
+be true of *your* diagram: the eight questions in §7 of the handout all have the form "you made a
+choice here — what does it cost you?" An answer written before the choice was made is a guess; an
+answer written after is evidence that the model is yours. That is also why Part A of the in-class
 session asks about it with the assistant off — it is the deliverable hardest to produce without
 understanding the model.

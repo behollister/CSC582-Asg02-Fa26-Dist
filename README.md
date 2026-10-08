@@ -6,6 +6,11 @@ the market.** The only code you write is Mermaid script, which generates your UM
 diagram and two sequence diagrams. You also write a design rationale, and you defend all of it in a
 monitored in-class session.
 
+> [!IMPORTANT]
+> **You are not expected to be perfect.** Asg2 grades are curved to a class average of 75 (Asg1
+> grades were not). Your grade depends on how carefully and thoroughly you carry out each part,
+> compared with your classmates.
+
 **Everything your model is based on is in [`OPTIONS-MARKETS.md`](OPTIONS-MARKETS.md)**, the domain
 description in this repository. The handout cites its sections as "doc §5"; a plain "§5" is a
 section of the handout.
@@ -96,21 +101,22 @@ Two different reasons to run this:
 - **No code that simulates the market**, in any language: no build, no tests. The only code you
   write is Mermaid script, for your UML diagrams; everything else is prose in Markdown.
 - **Two weeks** for the take-home.
-- **You are not expected to be perfect.** Grades are curved to a class average of 75.
+- **You are not expected to be perfect.** Asg2 grades are curved to a class average of 75 (Asg1
+  grades were not).
 - **AI assistants are allowed** during the take-home, and must be disclosed in `AI_USAGE.md`. An
   assistant can produce a plausible class diagram of this domain in seconds; what it cannot do is
-  answer for that diagram in the session, where it is off.
+  answer for that diagram in the in-class session, where it is off.
 - **Every mark comes from questions answered in the in-class session.** Your take-home is assessed
   there by **Part A** — in-class questions about your model, graded together with the bundle you
   submitted, against rubric items 1–8 (75%). **Part B** has you design an extension of your own
-  model during the session (25%); you commit it and upload a second, in-class bundle at the end.
-  An answer that does not match your bundles scores zero.
+  model during the in-class session (25%); you commit it and upload a second, in-class bundle at the
+  end. An answer that does not match your bundles scores zero.
 - **Submit the take-home by running `munger.py`** and uploading the resulting
   `<ID>_<Name>_takehome_bundle.txt` through the take-home form, by the start of class on the day of
-  the session: **TAKEHOME-FORM-PENDING** *(the form is not ready yet; its link will be added
-  here)*. No GitHub account or hosted repo is required; a local git repo is (its history rides
+  the in-class session: **TAKEHOME-FORM-PENDING** *(the form is not ready yet; its link will be
+  added here)*. No GitHub account or hosted repo is required; a local git repo is (its history rides
   along in the bundle — rubric item 7). The in-class bundle goes to a separate form, given out in
-  the session.
+  the in-class session.
 
 ## Getting started
 

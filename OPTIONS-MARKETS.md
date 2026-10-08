@@ -348,7 +348,7 @@ A fills 20 at 2.50, then B fills 5 at 2.50, then C fills 5 at 2.55. 30 bought fo
 
 ---
 
-## 8. A session, from start to end
+## 8. One example, from listing to expiry
 
 **Listing.** The exchange lists options on XYZ, which trades at 100: calls and puts at strikes of
 95, 100, and 105, all expiring in 30 days, each covering 100 shares. That is six contracts. Nobody
