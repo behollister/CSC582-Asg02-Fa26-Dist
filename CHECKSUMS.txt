@@ -1,0 +1,20 @@
+# SHA-256 checksums for the CSC 582 Assignment #2 package.
+#
+# Verify every file in this package:      sha256sum -c CHECKSUMS.txt
+# Verify just the bundler:                sha256sum munger.py
+#
+# munger.py MUST match the digest below - it is checked when your submission
+# is graded. The other entries let you confirm you have an unmodified copy of
+# the package, with one deliberate exception: OPTIONS-MARKETS.md is the file
+# you are supposed to mark up as you read it, so your copy is expected to
+# diverge from the digest below - that divergence is rubric item 1.
+e5def15a9af85b62568682d427b24515f90d8c86c252e75a648c75ed014b6374  AI_USAGE.template.md
+c0ff691464d8bddf426aba5985d45dc4445fd40f67e946b6512d97faf85ac5ec  Fa26-CSC582-Assignment2.pdf
+d2358f944af3f79eaf20edbceb6d05fb75b18afd63ba56fc2e079bca379cc91d  OPTIONS-MARKETS.md
+db3a27cd7f45a49200360a9b2855fb0b982be60959f4b7dacbbd8e597e04f353  README.md
+2c1de7e33a418a6e26156f34cd6032509da6f991219430e5245d48af4f29fe5c  WALKTHROUGH.md
+c70c1a67d6bdc81a46d30dff811c7edf82c826e2a7b83bec60283c77fae8bf65  design/README.md
+1a76bcd691d00434955ad1d6bb74f68dc84941fc416a8630f496e8c304a8574a  figures/long-call.svg
+062b73dc09bdf6eb368f9a15bda3e2e617e6e462c9e3947402afcf65a64ebf57  figures/long-put.svg
+a36f831e5e4d6168a634689bfcf9486da1dd525f62a26b8fe1dae3017db78402  figures/short-call.svg
+07922293bfffc97de88467654e90e661e97eb0b9c9d1b85ad5de7a667a968cb2  munger.py
