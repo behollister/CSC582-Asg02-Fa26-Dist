@@ -114,7 +114,8 @@ Two different reasons to run this:
   `<ID>_<Name>_takehome_bundle.txt` through the take-home form, by the start of class on the day of
   the in-class session: <https://forms.gle/8vRXHktcJs3uJqNG9>. No GitHub account or hosted repo is
   required; a local git repo is (its history rides along in the bundle — rubric item 7). The
-  in-class bundle goes to a separate form, given out in the in-class session.
+  in-class bundle goes to a separate form, <https://forms.gle/xXm47BNEg9TRmxi58>. Use it only at the
+  end of the in-class session: it accepts one upload per student.
 
 ## Getting started
 

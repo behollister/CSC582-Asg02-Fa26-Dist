@@ -9,10 +9,10 @@
 # you are supposed to mark up as you read it, so your copy is expected to
 # diverge from the digest below - that divergence is rubric item 1.
 73bb6a6fa3f2efbeb894065705eeb67cff5d162d68d452e9ef6069adfdcf4693  AI_USAGE.template.md
-579dd3df9f7f2a92b57d584a47c4a74e533f10016ee9b6cb7ec218f3b4c43c40  Fa26-CSC582-Assignment2.pdf
+11afdbc046fb2fc978c87199e44e4ebca67b8eb2fc5b6cb95ab659dccdf37e15  Fa26-CSC582-Assignment2.pdf
 82d783116c23dbb6854471779bb8f8ee9ed775c70693d569d5be7f7ede065de1  OPTIONS-MARKETS.md
-fdb97add850c90dd4fbbcf34b1b03910c9e58ae9863ea7ca0fd0d53b677283fc  README.md
-e3b61a9d3242108935a0eb42d4befa5e071b61dd84ff7eb7a0f86b07ce047941  WALKTHROUGH.md
+273c5a975f279ad0cb065c6caeca9e895c25e957ea3e874492bd896ea3bb3223  README.md
+508cecad9ba0f54d55822756630c99aeca28149ff609241c734aa429d8fe5304  WALKTHROUGH.md
 cb5d42b4fc0dcbe45d2b5c3fb388b95b1ba725ac13b5f886ab31ce2dbe83c2ec  design/README.md
 1a76bcd691d00434955ad1d6bb74f68dc84941fc416a8630f496e8c304a8574a  figures/long-call.svg
 062b73dc09bdf6eb368f9a15bda3e2e617e6e462c9e3947402afcf65a64ebf57  figures/long-put.svg

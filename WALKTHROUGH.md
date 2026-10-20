@@ -224,9 +224,10 @@ form, opened at the start, with AI assistants off, and at the end you upload a s
 - **Part B** (25%) is one design task, sized for two hours, that extends your model. You answer in
   prose plus a Mermaid class diagram typed into an answer box; no sequence diagram is asked for in
   class. One diagram tool is permitted, named on the task sheet you'll be given.
-- **The in-class bundle.** At the end of the in-class session, commit again and re-run `munger.py`, this
-  time answering **2**. That writes `<ID>_<Name>_inclass_bundle.txt`, which goes to a **separate
-  in-class form** handed out during the in-class session, before time is called.
+- **The in-class bundle.** At the end of the in-class session, commit again and re-run `munger.py`,
+  this time answering **2**. That writes `<ID>_<Name>_inclass_bundle.txt`, which goes to the
+  **separate in-class form**, <https://forms.gle/xXm47BNEg9TRmxi58>, before time is called. Use that
+  form only then: it accepts one upload per student.
 
 ---
 
