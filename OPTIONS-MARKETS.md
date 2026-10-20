@@ -295,11 +295,11 @@ already have traded.
 Each order says what happens to any part of it that does not fill:
 
 - **Day** — rest until the end of the day, then cancel.
-- **Good till cancelled** — rest until cancelled.
+- **Good till canceled** — rest until canceled.
 - **Immediate or cancel** — trade what is available now, and cancel the rest.
 - **Fill or kill** — trade the *whole* quantity now, or trade nothing.
 
-Fill-or-kill is different in kind from the others. Day, good-till-cancelled, and immediate-or-cancel
+Fill-or-kill is different in kind from the others. Day, good-till-canceled, and immediate-or-cancel
 can be applied after matching: match first, then decide what to do with the rest. Fill-or-kill
 cannot. Whether the order may trade at all depends on the whole quantity being available *before*
 any of it trades.
@@ -323,7 +323,7 @@ The bids are 20 at 2.45 and 35 at 2.40. An order arrives: **buy 30, limit 2.55, 
 
 If the order had been fill-or-kill, the exchange would have had to check that all 30 were
 available before trading any of them. If it had been immediate-or-cancel with only 25 available,
-25 would have traded and the other 5 would have been cancelled instead of resting.
+25 would have traded and the other 5 would have been canceled instead of resting.
 
 <!-- figure: order-book -->
 Buy 30, limit 2.55, arrives. The book for one contract, before and after:

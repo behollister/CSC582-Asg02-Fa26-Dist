@@ -28,7 +28,7 @@ with most, and which parts did you end up drawing or re-drawing yourself?*
 ## Log
 
 Add an entry for each significant use. "Significant" means it affected the model you submitted —
-not every autocomplete, but anything where the tool made a modelling decision, produced a class,
+not every autocomplete, but anything where the tool made a modeling decision, produced a class,
 drew part of a diagram, or argued a choice you kept.
 
 ### Entry 1

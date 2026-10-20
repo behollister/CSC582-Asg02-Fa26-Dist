@@ -1,4 +1,4 @@
-# CSC 582 — Assignment #2: Modelling an Unfamiliar System Through Abstraction — The Options Market (Fall 2026)
+# CSC 582 — Assignment #2: Modeling an Unfamiliar System Through Abstraction — The Options Market (Fall 2026)
 
 Take a domain you have probably never worked in — options, and the contracts built out of them —
 described in ordinary prose, and turn it into an object model. **You write no code that simulates
@@ -7,9 +7,9 @@ diagram and two sequence diagrams. You also write a design rationale, and you de
 monitored in-class session.
 
 > [!IMPORTANT]
-> **You are not expected to be perfect.** Asg2 grades are curved to a class average of 75 (Asg1
-> grades were not). Your grade depends on how carefully and thoroughly you carry out each part,
-> compared with your classmates.
+> **You are not expected to be perfect.** Asg2 grades are curved to a class average of 75. Your
+> grade depends on how carefully and thoroughly you carry out each part, compared with your
+> classmates.
 
 **Everything your model is based on is in [`OPTIONS-MARKETS.md`](OPTIONS-MARKETS.md)**, the domain
 description in this repository. The handout cites its sections as "doc §5"; a plain "§5" is a
@@ -101,8 +101,7 @@ Two different reasons to run this:
 - **No code that simulates the market**, in any language: no build, no tests. The only code you
   write is Mermaid script, for your UML diagrams; everything else is prose in Markdown.
 - **Two weeks** for the take-home.
-- **You are not expected to be perfect.** Asg2 grades are curved to a class average of 75 (Asg1
-  grades were not).
+- **You are not expected to be perfect.** Asg2 grades are curved to a class average of 75.
 - **AI assistants are allowed** during the take-home, and must be disclosed in `AI_USAGE.md`. An
   assistant can produce a plausible class diagram of this domain in seconds; what it cannot do is
   answer for that diagram in the in-class session, where it is off.
@@ -113,10 +112,9 @@ Two different reasons to run this:
   end. An answer that does not match your bundles scores zero.
 - **Submit the take-home by running `munger.py`** and uploading the resulting
   `<ID>_<Name>_takehome_bundle.txt` through the take-home form, by the start of class on the day of
-  the in-class session: **TAKEHOME-FORM-PENDING** *(the form is not ready yet; its link will be
-  added here)*. No GitHub account or hosted repo is required; a local git repo is (its history rides
-  along in the bundle — rubric item 7). The in-class bundle goes to a separate form, given out in
-  the in-class session.
+  the in-class session: <https://forms.gle/8vRXHktcJs3uJqNG9>. No GitHub account or hosted repo is
+  required; a local git repo is (its history rides along in the bundle — rubric item 7). The
+  in-class bundle goes to a separate form, given out in the in-class session.
 
 ## Getting started
 
