@@ -9,9 +9,9 @@
 # you are supposed to mark up as you read it, so your copy is expected to
 # diverge from the digest below - that divergence is rubric item 1.
 73bb6a6fa3f2efbeb894065705eeb67cff5d162d68d452e9ef6069adfdcf4693  AI_USAGE.template.md
-11afdbc046fb2fc978c87199e44e4ebca67b8eb2fc5b6cb95ab659dccdf37e15  Fa26-CSC582-Assignment2.pdf
+cadbe3a218eab902affbbbd45b4533e08e6bbe1743e7bcafdef702f94e2920fa  Fa26-CSC582-Assignment2.pdf
 82d783116c23dbb6854471779bb8f8ee9ed775c70693d569d5be7f7ede065de1  OPTIONS-MARKETS.md
-273c5a975f279ad0cb065c6caeca9e895c25e957ea3e874492bd896ea3bb3223  README.md
+93cbe02e9b88a9f98c199cd24b0cf6d8f481f47a17359758bbc827c0691d23a8  README.md
 508cecad9ba0f54d55822756630c99aeca28149ff609241c734aa429d8fe5304  WALKTHROUGH.md
 cb5d42b4fc0dcbe45d2b5c3fb388b95b1ba725ac13b5f886ab31ce2dbe83c2ec  design/README.md
 1a76bcd691d00434955ad1d6bb74f68dc84941fc416a8630f496e8c304a8574a  figures/long-call.svg

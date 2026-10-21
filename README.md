@@ -23,6 +23,46 @@ design yourself into a corner on.
 Then do [`WALKTHROUGH.md`](WALKTHROUGH.md) on day one. It takes half an hour and proves your whole
 pipeline works — repository, Mermaid, bundle — while it's still cheap to find out it doesn't.
 
+## Why options?
+
+Options trading is one of the places where computers changed finance, and options are still at
+the center of quantitative ("quant") finance today.
+
+**Thomas Peterffy** is a pioneer of computerized options trading. From his
+[Wikipedia page](https://en.wikipedia.org/wiki/Thomas_Peterffy):
+
+> Peterffy left his career designing financial modeling software and bought a seat on the American
+> Stock Exchange to trade equity options. During his career in finance, he has consistently pushed
+> to replace manual processes with more efficient automated ones. He wrote code in his head during
+> the trading day and then applied his ideas to computerized trading models after hours. Peterffy
+> created a stir among traders by introducing handheld computers onto the trading floor in the
+> early 1980s. His business related to his AMEX seat eventually developed into Interactive Brokers.
+> He stepped down as chief executive in 2019.
+
+Interactive Brokers, the company his business became, has a
+[careers page](https://www.interactivebrokers.com/en/general/about/careers-splash.php).
+
+**Quant finance.** [QuantNet](https://quantnet.com/) is a site about quantitative finance. Its
+[options primer certificate](https://quantnet.com/options-primer-certificate/) starts from the ideas
+in `OPTIONS-MARKETS.md` (calls and puts, put–call parity, Black–Scholes), and its course content
+includes:
+
+- put–call parity arbitrage with bid–ask spreads, and convexity arbitrage;
+- options trading strategies;
+- the Greeks, and how they depend on spot price, volatility, and maturity, in the Black–Scholes
+  framework;
+- the three variables behind the Black–Scholes formulas: log moneyness, total standard deviation,
+  and the present value of the forward price;
+- estimating dividend rates from market data with ordinary least squares.
+
+Its interview questions cover bull spreads, bear spreads, butterfly spreads, straddles, strangles,
+return-enhancement strategies, putting market views into options strategies, the Greeks and
+model-independent relationships, time value, and implied volatility. QuantNet also has a
+[C++ course](https://quantnet.com/cpp/).
+
+This assignment does not teach you to trade options or to price them. It asks you to understand the
+domain well enough to model it with objects, which is the first step in building software for it.
+
 ## What's in this package
 
 | | |
